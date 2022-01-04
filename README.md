@@ -12,7 +12,7 @@ You can use the provided APIs to develop numerous types of file systems, whose c
 
 Due to the fact that FUSE file systems are regular applications (as opposed to kernel extensions), you have just as much flexibility and choice in programming tools, debuggers, and libraries as you have if you were developing standard macOS applications.
 
-For more information visit the [macFUSE website ](http://osxfuse.github.io/).
+For more information visit the [macFUSE website](http://osxfuse.github.io/).
 
 License
 -------
